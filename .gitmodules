@@ -1,3 +1,6 @@
 [submodule "source/c/htslib"]
 	path = source/c/htslib
 	url = https://github.com/lomereiter/htslib
+[submodule "source/biod"]
+	path = source/biod
+	url = https://github.com/BioD/biod.git
